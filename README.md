@@ -1,5 +1,7 @@
 # vscode-wechat README
 
+![Screenshot](screenshot.png)
+
 This is the README for your extension "vscode-wechat". After writing up a brief description, we recommend including the following sections.
 
 ## Features
